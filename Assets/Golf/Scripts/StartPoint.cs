@@ -41,7 +41,7 @@ public class StartPoint : MonoBehaviour
 
     void SetStrokeText()
     {
-        strokeText.text = "Strokes: " + points.ToString();
+        //strokeText.text = "Strokes: " + points.ToString();
         
     }
 
